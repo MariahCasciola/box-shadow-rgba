@@ -10,6 +10,6 @@ I realized I was doomed to redraw Ms. Muffet, or manually change 300 lines of pi
 
 I used [NotePad++](https://notepad-plus-plus.org/) to remove the white space from css formatting.
 
-Here is Ms-Muffet!
+Here is Ms Muffet!
 
-
+![Ms-Muffet-Pixel-Art](/ms-muffet.png)
