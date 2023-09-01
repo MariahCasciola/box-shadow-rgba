@@ -1,6 +1,6 @@
 # An algorithm that I spun up to fix my box-shadow pixel art
 
-I made the mistake of drawing pixel art with a [CSS generator](https://www.pixelartcss.com/), and now I face the consequences of my actions.
+I made the mistake of drawing pixel art with [Pixel Art to CSS](https://www.pixelartcss.com/) to generate CSS to create pixel art and now I face the consequences of my actions.
 
 I finished drawing Ms. Muffet from UnderTale using the box-shadow property and `position: absolute` in CSS when I realized she was too far to the right.
 
